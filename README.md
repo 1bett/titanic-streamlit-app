@@ -17,7 +17,7 @@ Ce projet m'a permis de pratiquer la data visualisation et le développement web
      `git clone [https://github.com/1bett/titanic-streamlit-app.git]
   2. Entre dans le dossier : `cd titanic-streamlit`
   3. Installe les dépendances : `pip install -r requirements.txt`
-  4. Lance l'app : `streamlit run app.py`  
+  4. Lance l'app : `streamlit run titanic_app.py`  
      *(Ouvre http://localhost:8501 dans ton navigateur.)*
 
 ## Technologies Utilisées
